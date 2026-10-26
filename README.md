@@ -15,17 +15,19 @@ Objectives
 Tools Used
 
 * Microsoft Power BI
-* Power Query for data cleaning and transformation, if used
-* DAX for calculations, if used
+* Power Query for data cleaning and transformation,
+* DAX for calculations,
 
 Key Performance Indicators (KPIs)
+total sales
+total order
+total unit sold
+average order value
 
- such as total sales, total profit, or number of orders.
 
+ Dashboard Perview.
+ <img width="611" height="367" alt="Screenshot 2026-10-07 145658" src="https://github.com/user-attachments/assets/5c3c5b27-5f03-4250-8620-71eef00b9f5f" />
 
- Dashboard Preview
-
-A screenshot of the completed dashboard will be added here.<img width="611" height="367" alt="Screenshot 2026-10-07 145658" src="https://github.com/user-attachments/assets/5c3c5b27-5f03-4250-8620-71eef00b9f5f" />
 
 
 
